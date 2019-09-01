@@ -7,6 +7,7 @@ def find_element_index(array, value_to_find)
       count += 10
     else
       count +=1
+    end  
   end
   return index
 end
