@@ -32,7 +32,7 @@ def find_min_value(array)
   while count < array.length do
     if array[count] < min
       min = array[count]
-      count += 10
+      count += 1
     else
       count +=1
     end  
