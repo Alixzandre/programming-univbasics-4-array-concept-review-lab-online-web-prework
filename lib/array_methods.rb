@@ -35,6 +35,7 @@ def find_min_value(array)
       count += 10
     else
       count +=1
+    end  
   end
   return min
 end
