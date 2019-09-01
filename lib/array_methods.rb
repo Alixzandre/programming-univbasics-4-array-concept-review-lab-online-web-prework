@@ -36,5 +36,4 @@ def find_min_value(array)
       count +=1
   end
   return min
-
 end
