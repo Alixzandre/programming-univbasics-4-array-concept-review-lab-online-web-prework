@@ -21,7 +21,7 @@ def find_max_value(array)
       count += 10
     else
       count +=1
-      
+    end  
   end
   return max
 end
