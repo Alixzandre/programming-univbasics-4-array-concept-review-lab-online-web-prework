@@ -29,7 +29,7 @@ end
 
 def find_min_value(array)
   count = 0
-  min = 
+  min = nil
   while count < array.length do
     if array[count] < min
       min = array[count]
